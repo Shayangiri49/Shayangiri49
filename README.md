@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shayan Giri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)](https://majdi-mokhtar-portfolio.vercel.app/)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Lato&size=22&color=016EEA&size=24&center=true&lines=Hi+there+%F0%9F%91%8B,++I%27am+Shayan+Giri;Welcome+to+my+Profile!;I%27m+a+Frontend+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayangiri49&label=Profile%20views&color=0e75b6&style=flat" alt="shayangiri49" /> </p>
 
